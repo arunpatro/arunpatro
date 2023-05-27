@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @arunpatro
-- 👀 I’m interested in AI, Crypto, Chess and Football 
-- 🌱 I’m currently learning how to build
-- 💞️ I’m looking to collaborate on my open source projects for productivity and minimalism. 
-- 📫 How to reach me -> arunpatro.com
+- 👀 I’m currently interested in ML Acceleration, Chess and Football 
+- 🌱 I am learning `rust` and `mojo` slowly to improve my systems thinking
+- 📫 Reach me at arunpatro.com
 
 <!---
 arunpatro/arunpatro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
