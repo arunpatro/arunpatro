@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @arunpatro
-- 👀 I’m currently interested in ML Acceleration, Chess and Football 
+- 👀 I’m currently interested in ML Acceleration, Computer Graphics, Chess and Football 
 - 🌱 I am learning `rust` and `mojo` slowly to improve my systems thinking
 - 📫 Reach me at arunpatro.com
 
